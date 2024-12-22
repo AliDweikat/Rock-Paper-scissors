@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ali/Documents/Visual Studio Code code/C++/Rock-Paper-scissors/Rock-Paper-scissors'
+relocations:     []
+...
